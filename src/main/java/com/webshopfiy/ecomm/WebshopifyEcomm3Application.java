@@ -16,7 +16,8 @@ public class WebshopifyEcomm3Application {
 	@PostConstruct 
 	public void intt()
 	{
-		log.info("!!started!!");	
+		log.info("!!started!!!");	
+		log.info("!!started!!!");	
 	}
 
 	public static void main(String[] args) {
