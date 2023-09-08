@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>dcoker-jenkins-integration-sample</finalName>
+		<finalName>webshopify-ecomm3-0.0.1-snapshot.jar</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
