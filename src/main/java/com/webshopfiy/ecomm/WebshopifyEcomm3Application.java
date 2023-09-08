@@ -18,6 +18,7 @@ public class WebshopifyEcomm3Application {
 	{
 		log.info("!!started!!!");	
 		log.info("!!started!!!");	
+		log.info("!!started 123!!!");	
 	}
 
 	public static void main(String[] args) {
